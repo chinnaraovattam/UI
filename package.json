@@ -1,0 +1,31 @@
+{
+  "name": "react-hello-world",
+  "version": "1.0.0",
+  "description": "React Hello World",
+  "main": "index.js",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "author": "CodeMix",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^4.3.1",
+    "list-react-files": "^0.2.0",
+    "material-ui": "^0.20.2",
+    "mssql": "^5.1.0",
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0",
+    "react-scripts": "^2.1.5",
+    "react-select": "^3.0.4",
+    "react-table": "^6.10.0"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
