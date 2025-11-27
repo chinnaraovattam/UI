@@ -18,7 +18,7 @@
     "mssql": "^5.1.0",
     "react": "^16.2.0",
     "react-dom": "^16.2.0",
-    "react-scripts": "^2.1.5",
+    "react-scripts": "^5.0.1",
     "react-select": "^3.0.4",
     "react-table": "^6.10.0"
   },
